@@ -3,12 +3,12 @@ export const INTRO_CONTENT = {
     headerTitle: "Section Of Solids",
 
     buttonLabel: "Experiment",
-    buttonLink: "./sectionPentPrism.html",
+    buttonLink: "./sectionIncVP.html",
 
     mainHeading: "Section Of Solids: Pentagonal Prism",
 
     aimTitle: "Aim",
-    aimContent: "To draw the true shape of sectioned surface, front view and top view of a pentagonal prism which is sectioned by a cutting plane inclined at an angle 30° to HP and 25mm above the base.  ",
+    aimContent: "To draw the true shape of sectioned surface, front view and top view of a pentagonal prism which is sectioned by a cutting plane inclined at an angle 30° to VP and 25mm infront of VP.  ",
 
     ackTitle: "Acknowledgement",
     ackContent:
@@ -17,13 +17,18 @@ export const INTRO_CONTENT = {
     // UPDATED STRUCTURE
     students: [
         {
-            name: "Manisha. S",
-            roll: "2025507056",
+            name: "Ramana Kumar. M",
+            roll: "2025507063",
             image: "./images/person.png"
         },
         {
-            name: "Pradeepa. K",
-            roll: "2025507024",
+            name: "Monish. G",
+            roll: "2025507057",
+            image: "./images/person.png"
+        },
+        {
+            name: "Bhavesh Kumar. M",
+            roll: "2025507067",
             image: "./images/person.png"
         }
     ]

@@ -17,24 +17,24 @@ export const INTRO_CONTENT = {
     // UPDATED STRUCTURE
     students: [
         {
-            name: "Mothinath G",
-            roll: "2023507009",
+            name: "Praven Kumar. R",
+            roll: "2025507037",
             image: "./images/person.png"
         },
         {
-            name: "Madusudarsanan J",
-            roll: "2023507021",
+            name: "Suhesh. K",
+            roll: "2025507058",
             image: "./images/person.png"
         },
         {
-            name: "Prabakaran K",
-            roll: "2023507302",
+            name: "Prabakaran. P",
+            roll: "2025507049",
             image: "./images/person.png"
         },
         {
-            name: "Venugopal R",
-            roll: "2023507307",
-            image: "./images/person.jpeg"
+            name: "Mohananithish. N",
+            roll: "2025507068",
+            image: "./images/person.png"
         }
     ]
 };

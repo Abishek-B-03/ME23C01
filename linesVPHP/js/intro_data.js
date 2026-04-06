@@ -1,14 +1,14 @@
 // js/intro_data.js
 export const INTRO_CONTENT = {
-    headerTitle: "Hyperbola",
+    headerTitle: "Projection of Lines",
 
     buttonLabel: "Experiment",
-    buttonLink: "./hyperbola.html",
+    buttonLink: "./linesVPHP.html",
 
-    mainHeading: "Conic Sections: Hyperbola",
+    mainHeading: "Projection Of Lines: Inclined to Both Planes",
 
     aimTitle: "Aim",
-    aimContent: "To Construct an parabola given the distance of the focus from the directrix as 60 mm and Hyperbola as 3/2.",
+    aimContent: "To draw the front view and top view of a line inclined to both the planes (General Method).",
 
     ackTitle: "Acknowledgement",
     ackContent:
@@ -17,23 +17,18 @@ export const INTRO_CONTENT = {
     // UPDATED STRUCTURE
     students: [
         {
-            name: "Nigi Pregini. G",
-            roll: "2025507041",
+            name: "Sunomitha",
+            roll: "2025507053",
             image: "./images/person.png"
         },
         {
-            name: "Swarna. V L",
-            roll: "2025507064",
+            name: "Prathishini",
+            roll: "2025507054",
             image: "./images/person.png"
         },
         {
-            name: "Mohana. C",
-            roll: "2025507051",
-            image: "./images/person.png"
-        },
-        {
-            name: "Sharon. J",
-            roll: "2025507052",
+            name: "Jayavarshini",
+            roll: "2025507050",
             image: "./images/person.png"
         }
     ]
