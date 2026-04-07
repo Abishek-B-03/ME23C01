@@ -30,11 +30,6 @@ export const INTRO_CONTENT = {
             name: "Koushick. A",
             roll: "2025507060",
             image: "./images/person.png"
-        },
-        {
-            name: "Abishek. B",
-            roll: "2025507061",
-            image: "./images/person.png"
         }
     ]
 };

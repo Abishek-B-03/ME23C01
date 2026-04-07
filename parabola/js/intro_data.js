@@ -17,23 +17,8 @@ export const INTRO_CONTENT = {
     // UPDATED STRUCTURE
     students: [
         {
-            name: "Revanth. J",
-            roll: "2025507010",
-            image: "./images/person.png"
-        },
-        {
-            name: "Santhosh. V",
-            roll: "2025507040",
-            image: "./images/person.png"
-        },
-        {
-            name: "Koushick. A",
-            roll: "2025507060",
-            image: "./images/person.png"
-        },
-        {
-            name: "Abishek. B",
-            roll: "2025507061",
+            name: "Dr. S. Sathish",
+            roll: "Professor",
             image: "./images/person.png"
         }
     ]

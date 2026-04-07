@@ -101,6 +101,11 @@ body {
     text-align: left;
 }
 
+.section-block:last-child {
+    width: 300px;
+    align-self: center;
+}
+
 .section-title {
     color: #1e293b;
     font-size: 1.2rem;
@@ -133,7 +138,7 @@ body {
 /* --- Student Acknowledgement Cards --- */
 .student-grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     gap: 20px;
     list-style: none;
     padding: 0;
