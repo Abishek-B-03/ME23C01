@@ -16,19 +16,15 @@ export const INTRO_CONTENT = {
 
     // UPDATED STRUCTURE
     students: [
+        
         {
-            name: "Ramana Kumar. M",
-            roll: "2025507063",
+            name: "Manisha. S",
+            roll: "2025507056",
             image: "./images/person.png"
         },
-        {
-            name: "Monish. G",
-            roll: "2025507057",
-            image: "./images/person.png"
-        },
-        {
-            name: "Bhavesh Kumar. M",
-            roll: "2025507067",
+        { 
+            name: "Pradeepa. K",
+            roll: "2025507024",
             image: "./images/person.png"
         }
     ]
